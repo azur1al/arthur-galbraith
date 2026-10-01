@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: 'Text';
-  src: url(./fonts/oldstyle.ttf);
+  src: url(./fonts/oldstyle.ttf) format('truetype');
 }
 
 body {
