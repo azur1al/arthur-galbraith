@@ -9,11 +9,11 @@
 
 @font-face {
   font-family: 'Text';
-  src: url(./fonts/OLDSH___.ttf);
+  src: url(./fonts/oldstyle.ttf);
 }
 
 body {
-  font-family: 'Times New Roman';
+  font-family: 'Text';
   font-weight: normal;
   text-align: left;
   font-size: 18;
